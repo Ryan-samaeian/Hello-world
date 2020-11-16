@@ -1,2 +1,2 @@
-Echo "Hello world" . "<br>;
+Echo "Hello world" . '<br>';
 Print "In 7 languages";
